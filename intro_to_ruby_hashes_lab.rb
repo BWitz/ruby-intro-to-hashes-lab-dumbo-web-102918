@@ -8,7 +8,7 @@ end
 
 def monopoly
 
-	  actor {
+	  actor = {
 	    :name => "Dwayne The Rock Johnson"
 	  }
 
